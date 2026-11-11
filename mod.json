@@ -1,0 +1,9 @@
+{
+  "geode": "5.11.2",
+  "gd": { "win": "2.2081" },
+  "version": "v0.1.0",
+  "id": "privarskii.looppractice",
+  "name": "Loop Practice",
+  "developer": "privarskii",
+  "description": "Repeatable percentage-based practice segments with streak and death tracking."
+}
